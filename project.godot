@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Soccer-game"
-run/main_scene="uid://du1p56gwjwxqk"
+run/main_scene="uid://brj16q8ttvqfc"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
