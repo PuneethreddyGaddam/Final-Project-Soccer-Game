@@ -10,7 +10,7 @@
 [ext_resource type="Texture2D" uid="uid://dbb2dcntpi4w5" path="res://assets/art/backgrounds/top-wall.png" id="7_70g5m"]
 [ext_resource type="Texture2D" uid="uid://dbt1h0omdgqrs" path="res://assets/art/backgrounds/bottom-wall.png" id="8_dfmiw"]
 [ext_resource type="Texture2D" uid="uid://rimmleir8goq" path="res://assets/art/backgrounds/side-wall.png" id="9_cwmqy"]
-[ext_resource type="PackedScene" uid="uid://b4fcsbd0h08uo" path="res://scenes/ball/ball/ball.tscn" id="10_8m3kx"]
+[ext_resource type="PackedScene" uid="uid://b4fcsbd0h08uo" path="res://scenes/ball/ball.tscn" id="10_8m3kx"]
 [ext_resource type="PackedScene" uid="uid://clkoq0xwqsx4d" path="res://scenes/ui/ui.tscn" id="11_rs40n"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_w7kh3"]
